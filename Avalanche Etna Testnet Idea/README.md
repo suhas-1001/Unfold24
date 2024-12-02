@@ -1,6 +1,6 @@
-# Etna Testnet Projects
+# BridgeHub: Unlocking Cross-Chain Synergy
 
-Welcome to the **Etna Testnet Projects Repository**! This repository contains a suite of blockchain projects designed to align with the Etna Testnet Ideas from the Avalanche9000 upgrade. Each project demonstrates specific functionalities within the Avalanche ecosystem, focusing on interchain messaging, token bridging, and contract creation.
+This repository contains a suite of blockchain projects that demonstrates specific functionalities within the Avalanche ecosystem, focusing on interchain messaging, token bridging, and contract creation.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -26,7 +26,7 @@ Welcome to the **Etna Testnet Projects Repository**! This repository contains a 
 
 ## Overview
 
-This repository is a collection of projects that leverage the features of the Avalanche9000 upgrade, specifically the Etna Testnet. These projects showcase:
+This repository is a collection of projects that leverage the features of the Avalanche9000 upgrade. These projects showcase:
 - Interchain messaging for seamless communication across different blockchains.
 - Token bridges for interoperability between native and ERC20 tokens.
 - Smart contract creation and function invocation.
@@ -133,9 +133,10 @@ To run these projects, you will need:
 
 ## Technologies Used
 - **Blockchain:** Avalanche Fuji Testnet
-- **Development Framework:** Hardhat
+- **Development Framework:** Hardhat, Avalanche DevNet Resources
 - **Languages:** Solidity, JavaScript
 - **Tools:** Avalanche DevNet Resources, Interchain Messaging
+- **Libraries:** Web3.js, Ethers.js
 
 
 
